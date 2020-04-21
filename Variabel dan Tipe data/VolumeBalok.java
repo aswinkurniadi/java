@@ -1,4 +1,4 @@
-public class LuasBalok {
+public class VolumeBalok {
     public static void main(String[] args) {
         // deklarasi
         int p, l, t, result;
@@ -12,6 +12,6 @@ public class LuasBalok {
       	result = p * l * t;
 
         // output
-        System.out.println("Luas Balok = " + result);
+        System.out.println("Volume Balok = " + result);
     }
 }
