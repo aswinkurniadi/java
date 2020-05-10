@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CongratulationTime {
+public class CongratulationsIfElseIf {
     public static void main(String[] args) {
 
         // membuat variabel dan scanner
